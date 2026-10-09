@@ -1,0 +1,4 @@
+Cluster_k3,Countries,Mean_Production_Shortfall_pct,Mean_Beginning_Stock_to_Use_pct,Mean_SSR_pct,Country_List,Is_Singleton,Profile_Name
+C1,2,95.31095249479185,13.278235032956525,4.689047505208156,"Brunei Darussalam, Singapore",False,"Large domestic gap, limited stocks"
+C2,6,13.30160820958418,19.96948226804008,99.30109816149134,"Cambodia, Indonesia, Lao PDR, Malaysia, Philippines, Viet Nam",False,"Mixed or partial gap, limited stocks"
+C3,2,0.0,118.89900057688749,165.6816239691844,"Myanmar, Thailand",False,"Domestic surplus, deep stocks"

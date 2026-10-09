@@ -1,0 +1,4 @@
+k,Silhouette,Calinski_Harabasz,Davies_Bouldin,Minimum_Cluster_Size,Maximum_Cluster_Size,Has_Singleton,Adjusted_Rand_Index_Robust_vs_Standard,Rank_Silhouette,Rank_CH,Rank_DB,Composite_Rank_Sum
+2,0.5355120571990405,10.711709599158821,0.49061819705468335,2,8,False,1.0,1.0,3.0,2.0,6.0
+3,0.5278315130353043,18.633814445415677,0.4707224499930837,2,6,False,1.0,2.0,2.0,1.0,5.0
+4,0.47144891907645003,21.34574485744902,0.49360112192048455,2,4,False,0.4444444444444444,3.0,1.0,3.0,7.0
